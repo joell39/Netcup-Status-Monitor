@@ -1,0 +1,17 @@
+{
+    "TeamspeakConnection": {
+        "host": "127.0.0.1",
+        "queryport": 10011,
+        "serverport": 9987,
+        "username": "serveradmin",
+        "password": "",
+        "nickname": ""
+    },
+    "RelevantCategories": [
+        "Netzwerk",
+        "Root-Server"
+    ],
+    "SiteUrl": "https://www.netcup-status.de",
+    "CheckInterval": 1800000,
+    "LogIncidentCheck": false
+}
